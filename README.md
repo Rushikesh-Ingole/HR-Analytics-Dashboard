@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 Recommendations to Increase Growth
+
 Attrition Mitigation:
+
 Identify Root Causes: Conduct exit interviews and surveys to understand the reasons for employee departures.
 
 Implement Retention Strategies: Offer competitive compensation packages, flexible work arrangements, and opportunities for professional development.
